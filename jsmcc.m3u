@@ -72,7 +72,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228133/index.m3u8
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228136/index.m3u8
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
-http://ott.mobaibox.com/PLTV/4/224/3221228137/index.m3u8
+http://ott.mobaibox.com/PLTV/1/224/3221228101/index.m3u8
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
 http://ott.mobaibox.com/PLTV/4/224/3221227479/index.m3u8
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
@@ -89,8 +89,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221225566/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221225591/index.m3u8
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228106/index.m3u8
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
-http://ott.mobaibox.com/PLTV/4/224/3221227729/index.m3u8?
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
@@ -105,16 +103,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
 #EXTINF:-1,tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://epg.112114.xyz/logo/江苏公共新闻.png" group-title="江苏",江苏新闻
 http://ott.mobaibox.com/PLTV/4/224/3221225925/index.m3u8
-#EXTINF:-1,tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://epg.112114.xyz/logo/江苏城市.png" group-title="江苏",江苏城市
-http://ott.mobaibox.com/PLTV/4/224/3221225929/index.m3u8
-#EXTINF:-1,tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://epg.112114.xyz/logo/江苏综艺.png" group-title="江苏",江苏综艺
-http://ott.mobaibox.com/PLTV/4/224/3221225931/index.m3u8
-#EXTINF:-1,tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://epg.112114.xyz/logo/江苏影视.png" group-title="江苏",江苏影视
-http://ott.mobaibox.com/PLTV/4/224/3221225937/index.m3u8
-#EXTINF:-1,tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://epg.112114.xyz/logo/江苏教育.png" group-title="江苏",江苏教育
-http://ott.mobaibox.com/PLTV/4/224/3221225923/index.m3u8
-#EXTINF:-1,tvg-id="江苏体育" tvg-name="江苏体育" tvg-logo="https://epg.112114.xyz/logo/江苏体育.png" group-title="江苏",江苏体育
-http://ott.mobaibox.com/PLTV/4/224/3221225935/index.m3u8
 #EXTINF:-1,tvg-id="淮安新闻综合" tvg-name="淮安新闻综合" tvg-logo="https://epg.112114.xyz/logo/淮安综合.png" group-title="江苏",淮安综合
 http://ott.mobaibox.com/PLTV/4/224/3221228215/index.m3u8
 #EXTINF:-1,tvg-id="江苏移动影视轮播" tvg-name="江苏移动影视轮播" tvg-logo="https://epg.112114.xyz/logo/江苏移动影视轮播.png" group-title="江苏",江苏移动影视
